@@ -2,6 +2,7 @@
 
 ## Article 1
 Ce premier article est la pour tester l'usage collaboratif
+Amendement 
 
 ## Article 2
 Parce qu'un PJL n'est pas sérieux s'il n'y a pas au moins 2 articles
